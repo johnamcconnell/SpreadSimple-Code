@@ -7,7 +7,7 @@
 <details open>
 <summary>Search Bar Customization</summary>
 <br>
-```
+`
 .sv-viewer-form__search-inner {border: 1px solid #e9ecef; border-radius:10px}
 .sv-viewer-form__input-icon {
 padding-right: 10px;
@@ -15,7 +15,7 @@ padding-left: 10px;
 background-color: #fafafa;
 margin-right: 5px;
 }
-```
+`
 Thank You: Fernando Vasco
 </details>
 
