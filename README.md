@@ -4,4 +4,18 @@
 
 * you can check out the [Spreadsimple](https://spreadsimple.com) website and take a look at the amazing SaaS product they offer!
 
+<details open>
+<summary>Search Bar Customization</summary>
+<br>
+```
+.sv-viewer-form__search-inner {border: 1px solid #e9ecef; border-radius:10px}
+.sv-viewer-form__input-icon {
+padding-right: 10px;
+padding-left: 10px;
+background-color: #fafafa;
+margin-right: 5px;
+}
+```
+Thank You: Fernando Vasco
+</details>
 
