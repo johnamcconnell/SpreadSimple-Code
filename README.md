@@ -125,7 +125,7 @@ Thank You: François P
 Thank You: François P
 </details>
 
-If you would like to add code snips simply copy the following format and use it when submitting edits to this page:
+> If you would like to add code snips simply copy the following format and use it when submitting edits to this page:
 ```
 <details closed>
 <summary>Name of Spreadsimple change</summary>
